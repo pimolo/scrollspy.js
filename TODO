@@ -1,4 +1,5 @@
+- Handle variables defined by user
 
-
-Handle the navigation's display (horizontal || vertical)
+- Handle the navigation's display (horizontal || vertical)
 --> booleans ?
+and also its height

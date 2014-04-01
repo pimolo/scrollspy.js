@@ -3,3 +3,7 @@
 - Handle the navigation's display (horizontal || vertical)
 --> booleans ?
 and also its height
+
+- Add smoothscrolling as an option
+
+- Make a real plugin...

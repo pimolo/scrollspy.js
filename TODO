@@ -1,9 +1,10 @@
-- Handle variables defined by user
+- Handle variables defined by user... WIP
 
 - Handle the navigation's display (horizontal || vertical)
 --> booleans ?
 and also its height
+... WIP
 
 - Add smoothscrolling as an option
 
-- Make a real plugin...
+- Make a real plugin... DONE

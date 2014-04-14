@@ -1,4 +1,4 @@
-scrollSpy.js by pimolo
+scrollspy.js by pimolo
 ======================
 
 ### What's it ?
@@ -19,7 +19,7 @@ Define a CSS class shared by all the differents sections of your HTML. At the mo
 
 The 'active' class can contain any styles you want. It styles the `<a>` tag linked to the section which is in scolling.
 
-Your menu has to be a `<nav>`, which contains an `<ul>` which contains `<li>`s with a `<a>` for each. (recommended by the standards of HTML5)
+For now, your menu has to be a `<nav>`, which contains an `<ul>` which contains `<li>`s with a `<a>` for each. (recommended by the standards of HTML5)
 
 ```html
 <nav>
@@ -39,6 +39,7 @@ Your menu has to be a `<nav>`, which contains an `<ul>` which contains `<li>`s w
 
 Needs jQuery
 
-### Releases :
+### Releases notes :
 
-v1.0 : Works fine, but needs a specific markup (*cf.* [usage](https://github.com/pimolo/scrollspy.js#usage))
+v0.1 : Works fine, but needs a specific markup (*cf.* [usage](https://github.com/pimolo/scrollspy.js#usage))
+v1.0 : scrollspy.js is now a plugin !

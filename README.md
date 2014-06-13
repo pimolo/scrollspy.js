@@ -39,11 +39,12 @@ Indicate the parent container of your all your links like this : (for exemple, <
 $('nav').spy(params....)
 ```
 
-Define the CSS class and a slow scroll like this :
+Define the CSS class and active a slow scroll like this :
 
 ```javascript
 $(...).spy({ class: 'theClass', scroll: 'smooth' })
 ```
+"class" param is required, scroll is facultative
 
 ### Requirements
 

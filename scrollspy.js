@@ -3,7 +3,7 @@
     args = $.extend(
       {
         class: 'active',
-        scroll: 'smooth'
+        scroll: 'none'
       }, args
     );
     var menu = $(this);
